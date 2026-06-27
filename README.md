@@ -16,5 +16,8 @@ This is a simple Android application that calculates Body Mass Index (BMI) based
 2. Open in Android Studio
 3. Run on emulator or physical device
 
+## 📸 Screenshot
+![BMI Calculator UI](screenshot.jpeg)
+
 ## 👨‍💻 Author
 Sudireddy Abhigna
