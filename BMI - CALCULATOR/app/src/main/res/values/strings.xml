@@ -1,0 +1,32 @@
+<resources>
+
+    <string name="app_name">BMI Calculator</string>
+
+    <string name="title">BMI Calculator</string>
+    <string name="height_label">Height</string>
+
+    <string name="feet_hint">Feet</string>
+    <string name="inches_hint">Inches</string>
+    <string name="weight_hint">Enter weight (kg)</string>
+
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="others">Others</string>
+
+    <string name="calculate_bmi">Calculate BMI</string>
+    <string name="clear">Clear</string>
+
+    <string name="enter_all_values">Please enter all values</string>
+
+    <string name="underweight">Underweight</string>
+    <string name="normal">Normal</string>
+    <string name="overweight">Overweight</string>
+    <string name="obese">Obese</string>
+
+    <string name="bmi_result">
+        BMI: %1$s
+        \nCategory: %2$s
+        \nGender: %3$s
+    </string>
+
+</resources>

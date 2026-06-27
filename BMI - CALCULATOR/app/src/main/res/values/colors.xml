@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Default Material Colors (keep these) -->
+    <color name="purple_200">#BB86FC</color>
+    <color name="purple_500">#6200EE</color>
+    <color name="purple_700">#3700B3</color>
+    <color name="teal_200">#03DAC5</color>
+    <color name="teal_700">#018786</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <!-- ✅ Custom BMI category colors -->
+    <color name="blue">#2196F3</color> <!-- Underweight -->
+    <color name="green">#4CAF50</color> <!-- Normal weight -->
+    <color name="orange">#FF9800</color> <!-- Overweight -->
+    <color name="red">#F44336</color> <!-- Obese -->
+</resources>
